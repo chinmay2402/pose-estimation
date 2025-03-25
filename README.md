@@ -53,11 +53,13 @@ python main.py
 ---
 
 📜 License
+
 This project is licensed under the MIT License. You are free to modify, distribute, and use this code as per the license terms.
 
 ---
 
 📧 Contact
+
 For any questions or inquiries, feel free to contact:
 
 📧 Email: chinmay24csk@gmail.com
